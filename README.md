@@ -11,5 +11,5 @@ Gamle eksamener fra NTNU
 Send eksamen og løsningsforslag til eksamensbanken@gmail.com eller som merge-request til prosjektet.\
 Kun eksamen og løsningsforslag med riktig format på filnavn blir behandlet.
 
-✅ TMA4100_2024h, lf_TMA4100_2024h
-❌ 2024h_TMA4100, L_TMA4100_2024h
+- ✅ TMA4100_2024h, lf_TMA4100_2024h
+- ❌ 2024h_TMA4100, L_TMA4100_2024h
