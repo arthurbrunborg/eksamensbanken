@@ -1,2 +1,2 @@
 # Eksamensbanken
-Stor bank med gamle eksamener fra NTNU
+Gamle eksamener fra NTNU
