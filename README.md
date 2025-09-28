@@ -8,4 +8,8 @@ Gamle eksamener fra NTNU
 - Eksamen har filnanvn: FAGKODE_yyyys (år+semester)
 - Løsningsforslag har filnavn: lf_FAGKODE_yyyys
 
-Send eksamener og løsningsforslag til eksamensbanken@gmail.com eller som merge-request til prosjektet.
+Send eksamen og løsningsforslag til eksamensbanken@gmail.com eller som merge-request til prosjektet.\
+Kun eksamen og løsningsforslag med riktig format på filnavn blir behandlet.
+
+✅ TMA4100_2024h, lf_TMA4100_2024h
+❌ 2024h_TMA4100, L_TMA4100_2024h
